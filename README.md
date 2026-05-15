@@ -35,9 +35,13 @@
 
 ## İndirme
 
-> ⚠️ EXE 27 MB olduğu için GitHub'ın repo dosya boyut limitini (25 MB) aşıyor. [**Releases**](https://github.com/SegeSystems/PUS-HESAPLIYICI/releases) sekmesinden indir.
+**[⬇ Son sürümü indir — v2 (Release sayfası)](https://github.com/SegeSystems/PUS-HESAPLIYICI/releases/tag/v2)**
 
-Çift tıklayarak çalışır, kurulum gerekmez.
+Doğrudan EXE: [SegeSystems_PUS.exe](https://github.com/SegeSystems/PUS-HESAPLIYICI/releases/download/v2/SegeSystems_PUS.exe)
+
+Tüm sürümler: [Releases](https://github.com/SegeSystems/PUS-HESAPLIYICI/releases)
+
+Çift tıklayarak çalışır, kurulum gerekmez. Windows 10/11 64-bit.
 
 ---
 
